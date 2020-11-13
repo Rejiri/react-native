@@ -1,0 +1,220 @@
+{
+    "versionEN": {
+        "welcomeMessage": "Mia",
+        "filtersScreenTitle": "Options",
+        "contactScreenTitle": "Contact Info",
+        "drawerImage": "https://img4.goodfon.com/wallpaper/nbig/5/54/miaso-wood-sous-khleb-barbekiu-grilled-ovoshchi-gril-meat.jpg",
+        "items": [
+            {
+                "id": 0,
+                "name": "deleniti veniam non",
+                "description": "Atque cumque labore sequi id dolorem. Sunt corrupti ut ipsum distinctio",
+                "price": 1000,
+                "image2": "",
+                "image": "https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2981ca78-ab72-11e8-aa49-f23497b9293e.jpg?crop=5349%2C3009%2C122%2C725&resize=685"
+            },
+            {
+                "id": 1,
+                "name": "soluta et minima",
+                "description": "Atque cumque labore sequi id dolorem. Sunt corrupti ut ipsum distinctio",
+                "price": 2000,
+                "image2": "",
+                "image": "https://images8.alphacoders.com/877/877047.jpg"
+            },
+            {
+                "id": 2,
+                "name": "deserunt ab laboriosam",
+                "description": "Atque cumque labore sequi id dolorem. Sunt corrupti ut ipsum distinctio",
+                "price": 3000,
+                "image2": "",
+                "image": "https://s.marketwatch.com/public/resources/images/MW-GY993_Beyond_ZH_20181123140447.jpg"
+            }
+        ],
+        "productTypes": [
+            "neque culpa id",
+            "officia quia rerum"
+        ],
+        "productSizes": [
+            "minima quod modi",
+            "in ipsum illo",
+            "ut et accusamus"
+        ],
+        "typeOfCutting": [
+            "quo vel vel",
+            "eaque neque alias",
+            "omnis facere ratione",
+            "laudantium vero maxime",
+            "quis omnis libero"
+        ],
+        "typeOfPreparation": [
+            "amet eveniet ullam",
+            "odit earum optio",
+            "alias consectetur dolor"
+        ],
+        "restaurants": [
+            "rerum tenetur deserunt",
+            "laudantium eum qui",
+            "consequuntur ullam hic"
+        ],
+        "cookingTypes": [
+            "aspernatur rem ratione",
+            "ea cupiditate doloremque",
+            "soluta quos et"
+        ],
+        "const": {
+            "productTypes": "Product Types",
+            "productSizes": "Product Sizes",
+            "typesOfCutting": "Types Of Cutting",
+            "typesOfPreparation": "Types of Preparation",
+            "restaurants": "Restaurants:",
+            "fullName": "full name",
+            "phoneNumber": "phone number",
+            "location": "Location",
+            "currentLocation": "Current Location",
+            "chooseOnMap": "Choose on map",
+            "sendToRestaurant": "Send to Restaurant",
+            "submit": "Submit",
+            "add": "Add",
+            "update": "Update",
+            "appName": "Reiciendis",
+            "appDescription": "Ut molestiae quisquam veniam. Laboriosam fuga est ea sapiente occaecati. Fugiat accusamus vel error. Eum nihil labore eum earum aliquid ea iste ut ut. Praesentium nesciunt voluptates",
+            "settings": "settings",
+            "shareWithUs": "Share with Us",
+            "subscribeText": "Architecto placeat delectus, Qui rerum saepe quia voluptatem quas consectetur suscipit.",
+            "subscribeButton": "Subscribe",
+            "products": "Products",
+            "cart": "Cart",
+            "aboutUs": "About Us",
+            "confirmationMessageTitle": "Confirmation",
+            "confirmationMessageText": "Please check your phone number again",
+            "finalMessageTitle": "",
+            "finalMessageText": "Thank you",
+            "okButton": "OK",
+            "cancelButton": "Cancel",
+            "orders": "Orders",
+            "typeOfOrder": "Type Of Order",
+            "inProgress": "In Progress",
+            "haveBeenDone": "Have been done",
+            "cancelled": "Cancelled",
+            "order": "Order",
+            "contents": "Contents",
+            "contactInfo": "Contact Info",
+            "doneButton": "Done",
+            "quantity": "Quantity",
+            "cookingType": "Cooking Type",
+            "stateA": "Cancelled",
+            "stateB": "Done",
+            "stateC": "Stage 1",
+            "stateD": "Stage 2"
+        }
+    },
+    "versionAR2": {
+        "welcomeMessage": "انيم",
+        "filtersScreenTitle": "أكسيركايتاشيم",
+        "contactScreenTitle": "انيم أد مينيم",
+        "drawerImage": "https://img4.goodfon.com/wallpaper/nbig/5/54/miaso-wood-sous-khleb-barbekiu-grilled-ovoshchi-gril-meat.jpg",
+        "items": [
+            {
+                "id": 0,
+                "name": "يوت انيم أد مينيم",
+                "description": "ألايكيوام كيوايرات فوليوبتاتيم. يوت اينايم أد مينيما فينيام, كيواس نوستريوم أكسيركايتاشيم",
+                "price": 1000,
+                "image2": "",
+                "image": "https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2981ca78-ab72-11e8-aa49-f23497b9293e.jpg?crop=5349%2C3009%2C122%2C725&resize=685"
+            },
+            {
+                "id": 1,
+                "name": "نيمو أنيم أبسام",
+                "description": "ألايكيوام كيوايرات فوليوبتاتيم. يوت اينايم أد مينيما فينيام, كيواس نوستريوم أكسيركايتاشيم",
+                "price": 2000,
+                "image2": "",
+                "image": "https://images8.alphacoders.com/877/877047.jpg"
+            },
+            {
+                "id": 2,
+                "name": "يكيو بوررو كيوايسكيوم",
+                "description": "ألايكيوام كيوايرات فوليوبتاتيم. يوت اينايم أد مينيما فينيام, كيواس نوستريوم أكسيركايتاشيم",
+                "price": 3000,
+                "image2": "",
+                "image": "https://s.marketwatch.com/public/resources/images/MW-GY993_Beyond_ZH_20181123140447.jpg"
+            }
+        ],
+        "productTypes": [
+            "أيوتيم",
+            "مينيما"
+        ],
+        "productSizes": [
+            "كونسيكتيتيور",
+            "وت اينايم أد مينيما",
+            "كيوايس أيوتيم"
+        ],
+        "typeOfCutting": [
+            "يلايليوم كيواي دولوريم",
+            "أيوستو أودايو",
+            "ولار سايت أميت",
+            "سيد كيواي",
+            "نيم أيدي ايس"
+        ],
+        "typeOfPreparation": [
+            "وداي تيمبورا",
+            "كيوايرات فوليوبتاتيم",
+            "يتاي ديكاتا سيونت"
+        ],
+        "restaurants": [
+            "أدايبا يسكينج",
+            "يوكايميوس كيواي",
+            "كيوايس أيوتيم فيل"
+        ],
+        "cookingTypes": [
+            "فوليوبتاتيم سيكيواي",
+            "لابوريوم دايستا",
+            "ايست لابوريوم"
+        ],
+        "const": {
+            "productTypes": "سايت أميت",
+            "productSizes": "دايستا ينستايو",
+            "typesOfCutting": "ايست لابوريوم",
+            "typesOfPreparation": "دولوريم ايب سيوم",
+            "restaurants": "أديبايسكاي",
+            "fullName": "لابوريوم دايستا",
+            "phoneNumber": "نام لايبيرو",
+            "location": "انايماي",
+            "currentLocation": "لابوريوم دايستا",
+            "chooseOnMap": "ايب سيوم كيوا",
+            "sendToRestaurant": "بوررو كيوايسكيوم",
+            "submit": "ايست لابوريوم",
+            "add": "أيدي",
+            "update": "لايبيرو",
+            "appName": "أنفينتوري ",
+            "appDescription": "أيوس كيواي راتاشن فوليوبتاتيم سيكيواي نيسكايونت. نيكيو بوررو كيوايسكيوم ايست,كيواي دولوريم ايب سيوم كيوا دولار سايت أميت, كونسيكتيتيور,أديبايسكاي فيلايت, سيدكيواي نون نيومكيوام موداي",
+            "settings": "كيوايسكيوم",
+            "shareWithUs": "نيكيو",
+            "subscribeText": "سيما يليكيوسيونت ان كيولبا كيواي أوفايكيا ديسيريونت موللايتايا انايماي, أيدي ايست لابوريوم دايستا ينستايو. نام لايبيرو تيمبور,",
+            "subscribeButton": "ايب سيوم",
+            "products": "سيكيواي",
+            "cart": "فوليوبتاتيم",
+            "aboutUs": "يليكيوسيونت ان",
+            "confirmationMessageTitle": "كيواي دولوريم",
+            "confirmationMessageText": "كيواي دولوريم ايب سيوم كيوا دولار",
+            "finalMessageTitle": "",
+            "finalMessageText": "كونسيكتيتيور",
+            "okButton": "سايت",
+            "cancelButton": "ايست",
+            "orders": "انايماي",
+            "typeOfOrder": "ديسيريونت موللايتايا",
+            "inProgress": "كيواي أوفايكيا",
+            "haveBeenDone": "ديسيريونت موللايتايا",
+            "cancelled": "نيكيو بوررو",
+            "order": "لابوريوم دايستا",
+            "contents": "دايستا",
+            "contactInfo": "سيما يليكيوسيونت",
+            "doneButton": "لايبيرو",
+            "quantity": "دايستا",
+            "cookingType": "سيدكيواي نون",
+            "stateA": "Cancelled",
+            "stateB": "Done",
+            "stateC": "Stage 1",
+            "stateD": "Stage 2"
+        }
+    }
+}

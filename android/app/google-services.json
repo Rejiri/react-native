@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "948502372849",
+    "firebase_url": "https://xuowmfpp82.firebaseio.com",
+    "project_id": "xuowmfpp82",
+    "storage_bucket": "xuowmfpp82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602935643179:android:c879ed1c038e1c83",
+        "android_client_info": {
+          "package_name": "com.uianse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpPeVjO8M1y5XTBvya4vvVgW2QmX80BA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602681683079-224ulci45gnl4a9o9oo39vnkudmteqiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
